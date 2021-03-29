@@ -43,6 +43,10 @@ li {
 table {
   width: 80%;
   margin: auto;
+  border: 1px; 
+  border-color: gray;
+  padding: 5px;
+  text-align: center;
 }
 span{
   color: #087ac8;
@@ -52,4 +56,8 @@ span{
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
   font-size: 1.8rem;
+}
+th{
+  color: white;
+  background-color: #087ac8;
 }
