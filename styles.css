@@ -23,6 +23,7 @@ p {
 
 a {
   color: black;
+  text-decoration: none;
 }
 
 #picture {
@@ -60,4 +61,9 @@ span{
 th{
   color: white;
   background-color: #087ac8;
+}
+
+a:hover{
+  color: #087ac8;
+  text-decoration: none;
 }
